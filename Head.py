@@ -26,7 +26,7 @@ name = input("What's your name?")
 print('Hi '+name+' How are you?')
 s = input()
 
-'''mobile_number = input("Enter your mobile number: ")
+mobile_number = input("Enter your mobile number: ")
 email = input("Enter your email id: ")
 
 a = np.array([name])
@@ -37,7 +37,7 @@ df = pd.DataFrame(frame)
 database = "DiabetesBot.sqlite"
 conn = db.connect(database)
 df.to_sql(name='Users', con=conn,if_exists='append',index=False)
-conn.close()'''
+conn.close()
 
 def readtxt(filename):
     doc = docx.Document(filename)
