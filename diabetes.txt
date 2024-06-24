@@ -1,0 +1,12 @@
+Diabetes is a serious condition where your blood glucose level is too high. It can happen when your body doesn't produce enough insulin or the insulin it produces isn't effective.
+
+It can be diagnosed by Fasting blood sugar test.
+
+A fasting blood sugar level less than 100 mg/dL is normal.
+A fasting blood sugar level from 100 to 125 mg/dL is considered prediabetes. 
+If it's 126 mg/dL or higher, then ii is diabetes
+
+There are three types:
+1) Type 1 diabetes(Insulin-dependent diabetes mellitus)
+2) Type 2 diabetes(Non-Insulin dependent diabetes mellitus)
+3) Gestational diabetes (diabetes during pregnancy)

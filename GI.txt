@@ -1,0 +1,11 @@
+The glycemic index (GI) is a value used to measure how much specific foods increase blood sugar levels.
+
+Foods are classified as low, medium, or high glycemic foods and ranked on a scale of 0–100.
+
+The lower the GI of a specific food, the less it may affect your blood sugar levels
+
+Here are the three GI ratings:
+
+  ->Low: 55 or less
+  ->Medium: 56–69
+  ->High: 70 or above
